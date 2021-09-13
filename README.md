@@ -1,4 +1,3 @@
-Hello, I have edited README file, Keegan Finch
 # :wave: The Basics of Git and GitHub 
 
 ## 🤓 Course overview and learning outcomes 
