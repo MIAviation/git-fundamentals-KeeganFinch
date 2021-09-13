@@ -1,5 +1,3 @@
-I have edited the file for the commit, Keegan Finch
-
 # :wave: The Basics of GitHub 
 
 ## 🤓 Course overview and learning outcomes 
