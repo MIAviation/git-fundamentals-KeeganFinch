@@ -1,3 +1,4 @@
+I have made changes, Keegan Finch
 # :wave: The Basics of GitHub 
 
 ## 🤓 Course overview and learning outcomes 
